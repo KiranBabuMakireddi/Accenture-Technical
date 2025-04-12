@@ -1,4 +1,4 @@
-# 📦 OTHISISMEDTEXH ASSIGNMENT
+# 📦 ACCENTURE ASSIGNMENT
 
 This project is a drag-and-drop interface built with **React**, **Vite**, **Tailwind CSS**, and **React DnD**.
 
